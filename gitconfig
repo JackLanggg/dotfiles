@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jacline97.thomas@gmail.com
+	name = jacline thomas
